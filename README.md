@@ -11,7 +11,7 @@
 
 <br><br>
 # ℹ My Resume:
-[![Screenshot](/images/screenshot.png)](https://krebyy.github.io/)
+[![Screenshot](/images/screenshot.png)](https://ashish-jog.github.io/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=krebyy&icon=0&color=0)](https://visitcount.itsvg.in)
