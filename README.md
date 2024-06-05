@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️ I'm Embedded Systems Engineer | Hardware and Firmware Developer<br><br>Extensive experience in developing embedded systems projects with precision electronics, low power and wireless communication (LoRa, 6LoWPAN, Bluetooth, Wi-Fi).<br>Domain of technologies that support Industry 4.0 and Internet of Things (IoT).<br><br>💡 Hardware:<br> - PCB layout (EagleCAD, Altium Design, KiCAD)<br> - multilayer medium/high density<br> - radio frequency<br> - cost optimization for scale manufacturing<br> - SMD prototype assembly<br><br>💻 Firmware/Software:<br> - bare-metal<br> - real-time (freeRTOS, mbed)<br> - embedded Linux systems<br> - communication interfaces and protocols between peripherals and devices (CAN, UART, I2C, SPI, USB)
+Hello! I'm Ashish Hemant Jog. I'm passionate about Embedded Systems Firmware, Operating Systems and Computational Architectures. I have extensive experience in project development of embedded systems with industrial electronics, data logging persitent systems and communication protocols.
 
 <br><br>
 ## 🌐 Socials:
